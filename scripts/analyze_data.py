@@ -16,7 +16,7 @@
 
 def analyze_data():
     # Read processed data from a file
-    with open("../processed_data/processed_output.txt", "r") as file:
+    with open("processed_data/processed_output.txt", "r") as file:
         processed_data = file.read()
         print(f"Analyzing processed data: {processed_data}")
 
