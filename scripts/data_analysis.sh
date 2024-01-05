@@ -4,7 +4,7 @@
 echo "Starting Data Analysis..."
 
 # Run the data analysis script
-python scripts/analyze_data.py
+python3 scripts/analyze_data.py
 
 # Print a message indicating the end of data analysis
 echo "Data Analysis Complete."
