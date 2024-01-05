@@ -4,7 +4,7 @@
 echo "Starting Data Processing..."
 
 # Run the data processing script
-python scripts/process_data.py
+python3 scripts/process_data.py
 
 # Print a message indicating the end of data processing
 echo "Data Processing Complete."
